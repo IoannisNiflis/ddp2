@@ -1,0 +1,60 @@
+---
+title       : Segment Performance
+subtitle    : Customer Analysis Change per Segment between 2015 and 2014
+author      : Ioannis Niflis
+job         : 
+framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
+highlighter : highlight.js  # {highlight.js, prettify, highlight}
+hitheme     : tomorrow      # 
+widgets     : []            # {mathjax, quiz, bootstrap}
+mode        : selfcontained # {standalone, draft}
+knit        : slidify::knit2slides
+---
+
+
+  <h1>Overall performance of the company</h1>
+
+
+  
+  <p>Generally the results are very encouraging. The number of customers is increasing. </p>
+
+  <h3>Results of the Analysis</h3>
+  <ul class = "build incremental">
+<li>The Mass Segment Increased by 19%</li>
+<li>The Affluent Segment Increased by 4.4%</li>
+<li>The Business Segment Increased by 5%</li>
+</ul>
+
+---
+
+<section class="" id="slide-4">
+  
+  <blockquote>
+  
+  <p>Next Steps</p>
+  
+<p>We Should focus on retaining customer as the number of lost customers is high for Mass Segment and for Business Segment </p>
+
+<p> </p>
+especially we should pay attention to
+<p>_________________________________________________________________________</p>
+<p> </p>
+<p> </p>
+
+
+
+
+<li>The Mass Segment lost 579 Customers</li>
+<li>The Business Segment lost 100 Customers</li>
+
+<p>_________________________________________________________________________</p>
+</blockquote>
+
+</section>
+
+---
+
+  <p>Thank You</p>
+
+---
+  
