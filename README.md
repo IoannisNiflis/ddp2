@@ -1,4 +1,8 @@
 
+In order to see the PRESENTATION PLEASE USE THE CODE which can be found in Rpresentation.
+
+Concening the shiny app The description is the FOLLOWING :
+
 Use this link https://inapp.shinyapps.io/sAPP/ - OR OTHERWISE - unzip the file (csv) in the issues ( https://github.com/IoannisNiflis/ddp2/issues ) and put it in your working directory in order for the program to function. In this Case you should also use the code in the ui.R and Server.R .
 
 
